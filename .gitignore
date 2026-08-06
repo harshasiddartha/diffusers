@@ -123,7 +123,6 @@ dmypy.json
 
 # vscode
 .vs
-.vscode
 
 # Cursor
 .cursor
@@ -186,3 +185,7 @@ wandb
 # AI agent generated symlinks
 /.agents/skills
 /.claude/skills
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
